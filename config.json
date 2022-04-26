@@ -1,17 +1,43 @@
 {
 	"blog": {
 		"blogger_id": "188912320040849974",
-		"api_key": "AIzaSyCrLMZHJOYDiPhGwepCoBBT6vEqfSM4oCM"
+		"api_key": "AIzaSyCZj8hg5TK_BTD6KAD5QiIB8l6ZoqLcKcg",
+		"api_key0": "AIzaSyCZj8hg5TK_BTD6KAD5QiIB8l6ZoqLcKcg",
+		"api_key1": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key2": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key3": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key4": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key5": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key6": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key7": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key8": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key9": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key10": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key11": "AIzaSyCZj8hg5TK_BTD6KAD5QiIB8l6ZoqLcKcg",
+		"api_key12": "AIzaSyCZj8hg5TK_BTD6KAD5QiIB8l6ZoqLcKcg",
+		"api_key13": "AIzaSyCZj8hg5TK_BTD6KAD5QiIB8l6ZoqLcKcg",
+		"api_key14": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key15": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key16": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key17": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key18": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key19": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key20": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key21": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key22": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw",
+		"api_key23": "AIzaSyDhh3UDMevuEIE4rAegbkpAEaw_lNHzuDw"
+		
 	},
 	"app": {
-		"status": "1",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
-		"redirect_url": "",
+		"status": "0",
+		"status1": "1",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid11",
+		"redirect_url": "https://play.google.com/store/apps/details?id=com.comics.yotepya",
 		"privacy_policy_url": "https://sites.google.com/view/blog-news-app-privacy-policy",
 		"publisher_info_url": "https://sites.google.com/view/blog-news-app-publisher-info",
 		"terms_conditions_url": "https://sites.google.com/view/blog-news-app-terms-conditions",
 		"display_page_menu": "true",
-		"display_view_on_site_menu": "true"
+		"display_view_on_site_menu": "false"
 	},
 	"notification": {
 		"fcm_notification_topic": "blogger_news_app_topic",
@@ -19,13 +45,14 @@
 	},
 	"ads": {
 		"ad_status": "0",
-		"ad_type": "startapp",
+		"ad_type": "admob",
 		"admob_publisher_id": "pub-9734732209457742",
 		"admob_app_id": "ca-app-pub-9734732209457742~4827686620",
-		"admob_banner_unit_id": "0",
-		"admob_interstitial_unit_id": "ca-app-pub-9734732209457742/4230712833",
-		"admob_native_unit_id": "0",
-		"admob_app_open_ad_unit_id": "ca-app-pub-9734732209457742/4969079439",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_interstitial_unit_id1": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
 		"startapp_app_id": 210673973,
 		"unity_game_id": 0,
 		"unity_banner_placement_id": "banner",
@@ -34,8 +61,8 @@
 		"applovin_interstitial_ad_unit_id": 0,
 		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
 		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
-		"interstitial_ad_interval": 1,
-		"native_ad_interval": 10,
-		"native_ad_index": 1000
+		"interstitial_ad_interval": 3,
+		"native_ad_interval": 0,
+		"native_ad_index": 0
 	}
 }
